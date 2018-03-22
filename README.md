@@ -4,9 +4,9 @@ Sequential messaging service developed as a project of the course of Operating S
 Specifics:
 Implementation of a message exchange service supported through a sequential server. The service must accept messages from clients and store them. The client application must provide a user with the following functions:
 
-1 - Read all messages received by the user.
-2 - Send a new message to any of the users of the system.
-3 - Delete messages received by the user.
+  1. Read all messages received by the user.
+  2. Send a new message to any of the users of the system.
+  3. Delete messages received by the user.
 
 The service can only be used by authorized users 
 A message must contain at least the Recipient, Subject, and Text fields.
