@@ -1,5 +1,5 @@
 # Chat_ST
-Sequential messaging service developed as a project of the course of Operating Systems
+Sequential messaging service developed as a project of the course of Operating Systems (2016/17)
 
 Specifics:
 Implementation of a message exchange service supported through a sequential server. The service must accept messages from clients and store them. The client application must provide a user with the following functions:
@@ -12,7 +12,7 @@ The service can only be used by authorized users
 A message must contain at least the Recipient, Subject, and Text fields.
 
 ****************************************************************************************************************
-Servizio di messaggistica sequenziale sviluppato come progetto del corso di Sistemi operativi
+Servizio di messaggistica sequenziale sviluppato come progetto del corso di Sistemi operativi (2016/17)
 
 Specifiche:
 Realizzazione di un servizio di scambio messaggi supportato tramite un server sequenziale.
