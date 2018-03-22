@@ -1,4 +1,5 @@
 # Chat_ST
+[IMPORTANT: the application use the system call POSIX, so it run only on posix systems]
 Sequential messaging service developed as a project of the course of Operating Systems (2016/17)
 
 Specifics:
@@ -18,6 +19,7 @@ INSTRUCTION:
   
 
 ****************************************************************************************************************
+[IMPORTANTE: l'applicazione utilizza le system call di sistema POSIX, quindi è utilizzabile solo sui sistemi posix]
 Servizio di messaggistica sequenziale sviluppato come progetto del corso di Sistemi operativi (2016/17)
 
 Specifiche:
