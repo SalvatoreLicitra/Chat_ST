@@ -11,6 +11,12 @@ Implementation of a message exchange service supported through a sequential serv
 The service can only be used by authorized users 
 A message must contain at least the Recipient, Subject, and Text fields.
 
+INSTRUCTION:
+  
+  How to run the server: "./server -p [PORT NUMBER]"
+  How to run the client: "./client -a [SERVER ADDRESS] -p[PORT NUMBER]"
+  
+
 ****************************************************************************************************************
 Servizio di messaggistica sequenziale sviluppato come progetto del corso di Sistemi operativi (2016/17)
 
@@ -24,3 +30,8 @@ L'applicazione client deve fornire ad un utente le seguenti funzioni:
 
 Si precisa che il servizio potrà essere utilizzato solo da utenti autorizzati (deve essere quindi previsto un meccanismo di autenticazione).
 Un messaggio deve contenere almeno i campi Destinatario, Oggetto e Testo.
+
+ISTRUZIONI:
+
+  Per far partire il server: "./server -p [PORT NUMBER]"
+  Per far partire il client: "./client -a [SERVER ADDRESS] -p [PORT NUMBER]"
